@@ -1,0 +1,8 @@
+1;Mihai;216
+2;Robert;216
+3;George;216
+4;uzumaki;217
+5;Aizen;111
+6;Luffy;111
+7;Madara;111
+8;Ion;111
